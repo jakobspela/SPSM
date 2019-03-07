@@ -12,8 +12,10 @@ SPSM ist ein Server Monitor der
 
 ## Bilder
 
+einfache Übersicht
 ![Dashboard](https://github.com/jakobspela/SPSM/blob/master/bilder/spsm-dashboard.PNG)
 
+einfache Konfiguration
 ![Host Konfig](https://github.com/jakobspela/SPSM/blob/master/bilder/spsm-hosts.PNG)
 
 ## Systemvorraussetzungen
