@@ -1,1 +1,1 @@
-# SPSM
+# Simple PHP Server Monitor
