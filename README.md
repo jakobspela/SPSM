@@ -2,7 +2,7 @@
 
 ## Was ist SPSM?
 
-SPSM ist ein Server Monitor der 
+SPSM ist ein Server Monitor der das monitoring vereinfachen soll. Ziel ist es eine Monitoring Lösung zu schaffen die leicht und schnell zu konfigurieren ist.
 
 ## Features
 
