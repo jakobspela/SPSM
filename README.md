@@ -26,6 +26,6 @@ einfache Konfiguration
 
 ## Installation / Konfiguration
 
-1. Lade die datein in deinen Webserver Ordner oder verlinke diesen
+1. Lade die Dateien vom htdocs Ordner in deinen Webserver Ordner oder verlinke diesen
 2. füge deine Server in die "hosts.php" Datei ein
 3. Öffne "index.php" in deinem Browser
