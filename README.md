@@ -4,15 +4,17 @@
 
 SPSM ist ein Server Monitor der 
 
-##Features
+## Features
 
 * Einfache Konfiguration
 * Einfaches und sauberes Dashboard
 * Automatische überpfüfung und aktualisierung 
 
-##Bilder
+## Bilder
 
-![Dashboard](https://github.com/jakobspela/SPSM)
+![Dashboard](https://github.com/jakobspela/SPSM/blob/master/bilder/spsm-dashboard.PNG)
+
+![Host Konfig](https://github.com/jakobspela/SPSM/blob/master/bilder/spsm-hosts.PNG)
 
 ## Systemvorraussetzungen
 
