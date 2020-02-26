@@ -1,7 +1,6 @@
 <?php
 /*
  *
- * Use the examples below to add your own servers. Coded by clone1018 [?]
  *
  */
 $title = "Host Status"; // website's title
